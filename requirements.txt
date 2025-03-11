@@ -1,0 +1,7 @@
+Flask
+pandas
+scipy
+gunicorn
+aiohttp
+Werkzeug
+statsmodels
